@@ -1379,7 +1379,7 @@
         },
         {
             "name": "easycorp/easyadmin-bundle",
-            "version": "v5.1.0",
+            "version": "5.5.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/EasyCorp/EasyAdminBundle.git",
@@ -3425,7 +3425,7 @@
         },
         {
             "name": "symfony/expression-language",
-            "version": "v8.1.1",
+            "version": "8.1.13",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/expression-language.git",
@@ -3801,7 +3801,7 @@
         },
         {
             "name": "symfony/framework-bundle",
-            "version": "v8.1.1",
+            "version": "8.1.12",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/framework-bundle.git",
@@ -3944,7 +3944,7 @@
         },
         {
             "name": "symfony/http-client",
-            "version": "v8.1.1",
+            "version": "8.1.13",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/http-client.git",
@@ -4123,7 +4123,7 @@
         },
         {
             "name": "symfony/http-foundation",
-            "version": "v8.1.1",
+            "version": "8.1.13",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/http-foundation.git",
@@ -7945,7 +7945,7 @@
         },
         {
             "name": "symfony/yaml",
-            "version": "v8.1.1",
+            "version": "8.1.13",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/yaml.git",
